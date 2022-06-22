@@ -1,0 +1,95 @@
+@media only screen and (max-width: 1024px){
+    
+    
+    
+    .container1{
+        /* height: 250px; */
+        width: 26%;
+        background-color: #FFFFFF;
+        box-shadow: 3px 5px 17px rgb(135, 0, 246);
+        border-radius: 5px;
+        padding: 25px;
+        display: block;
+        margin: auto;
+    
+    }
+}
+
+
+
+
+
+@media only screen and (max-width: 768px){
+    
+    
+    
+    .container1{
+        /* height: 250px; */
+        width: 31%;
+        background-color: #FFFFFF;
+        box-shadow: 3px 5px 17px rgb(131, 246, 0);
+        border-radius: 5px;
+        padding: 25px;
+        display: block;
+        margin: auto;
+    
+    }
+}
+
+
+@media only screen and (max-width: 425px){
+    
+    
+    
+    .container1{
+        /* height: 250px; */
+        width: 58%;
+        background-color: #FFFFFF;
+        box-shadow: 3px 5px 17px rgb(246, 0, 98);
+        border-radius: 5px;
+        padding: 25px;
+        display: block;
+        margin: auto;
+    
+    }
+}
+
+
+
+@media only screen and (max-width: 375px){
+    
+    
+    
+    .container1{
+        /* height: 250px; */
+        width: 68%;
+        background-color: #FFFFFF;
+        box-shadow: 3px 5px 17px rgb(246, 127, 0);
+        border-radius: 5px;
+        padding: 25px;
+        display: block;
+        margin: auto;
+    
+    }
+}
+
+
+
+
+
+@media only screen and (max-width: 320px){
+    
+    
+    
+    .container1{
+        /* height: 250px; */
+        width: 78%;
+        background-color: #FFFFFF;
+        box-shadow: 3px 5px 17px rgb(49, 0, 246);
+        border-radius: 5px;
+        padding: 25px;
+        display: block;
+        margin: auto;
+    
+    }
+}
